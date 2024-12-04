@@ -21,6 +21,9 @@ This is a visually engaging **Hover Board** project built using **HTML**, **CSS*
 
 5. **Tab-Styled Container**:
    - The hover board is enclosed within a rounded, bordered tab for a polished look.
+  
+### Live Demo
+[You can see a live demo of the project here.](https://imtahirnaseer.github.io/Hover-Board/)
 
 ## Technologies Used
 
@@ -34,11 +37,6 @@ This is a visually engaging **Hover Board** project built using **HTML**, **CSS*
 2. Each circle is assigned random colors from a predefined palette when hovered over.
 3. The circles revert to their original state when the mouse is moved away.
 4. The watermark is displayed using a `div` element styled with `pointer-events: none` to prevent interference with the hover effect.
-
-```
-Live Demo
-[You can see a live demo of the project here.](https://imtahirnaseer.github.io/Hover-Board/)
-```
 
 ## Project Structure
 
